@@ -622,10 +622,19 @@ WScript.Sleep 500
 WshShell.SendKeys "https://github.com/TheDiamondOG/The-Fur-Elise-vbs-Vurchidal-Piano-Play"
 WScript.Sleep 200
 
+WshShell.SendKeys " "
+WScript.Sleep 200
+
 WshShell.SendKeys "https://www.youtube.com/channel/UCokoGiJffjGyo1XCxM1DCxg"
 WScript.Sleep 200
 
+WshShell.SendKeys " "
+WScript.Sleep 200
+
 WshShell.SendKeys "https://twitch.tv/thediamondog_yt"
+WScript.Sleep 200
+
+WshShell.SendKeys " "
 WScript.Sleep 200
 
 WshShell.SendKeys "https://github.com/TheDiamondOG"
